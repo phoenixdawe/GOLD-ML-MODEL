@@ -1,2 +1,4 @@
 To run script with FRED data input your API with the line 
 $env:FRED_API_KEY="your_key"
+
+Also to opent the permutated monte carlo test you must shut the existing backetest window
